@@ -24,3 +24,19 @@ Dashboard: The dashboard provides an overview of the web app, including the numb
 Patient Management: In the Patients section, you can view, add, update, and delete patient records. You can also search for patients by name, date of birth, or other criteria, and filter patient records based on different parameters.
 Appointment Scheduling: In the Appointments section, you can schedule appointments for patients, view upcoming appointments, and manage appointment statuses. You can also search for appointments by patient name, appointment date, or other criteria.
 User Management: If you have admin privileges, you can manage user accounts in the Users section. You can view, add, update, and delete user
+
+User Interface glimse
+
+![image](https://user-images.githubusercontent.com/91618654/232231128-e6e71e9f-45c0-4f36-920a-f2fb264207a6.png)
+
+Services 
+
+![image](https://user-images.githubusercontent.com/91618654/232231174-33239b35-2067-4029-82a3-c1c75ec88287.png)
+
+About Us
+
+![image](https://user-images.githubusercontent.com/91618654/232231207-c3210575-7444-48a1-a650-c2a60f307696.png)
+
+Book Appointment
+
+![image](https://user-images.githubusercontent.com/91618654/232231281-77161f01-79d3-4b88-a2f7-790db8bba82d.png)
